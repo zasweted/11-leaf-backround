@@ -1,0 +1,61 @@
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+  .centered {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 60px; font-family: 'Times New Roman';
+    font-weight: 100;
+    color: #F3FFFF;
+}
+  .paragraph {
+    position: absolute;
+    top: 64%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: cursive;
+    color: #91A8B2;
+  }
+  .pagenotfound {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 60px; 
+    color: #F3FFFF;
+  }
+  .button {
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);   
+  }
+  
+  *{
+      margin: 0;
+      padding: 0%;
+  }
+  .container {
+      background-image: url("/img/leaves-back.jpg");
+      background-color: black;
+      background-size: cover;
+      background-repeat: no-repeat;
+      height: 100vh;
+  }
+
+  a {
+      color: white; 
+      font-size: 20px;
+      padding: 10px;
+      padding-left: 30px;
+      padding-right: 30px;
+      border-radius: 30px;
+      text-decoration: none;
+      background-color: #FF7E68;
+  }
+
