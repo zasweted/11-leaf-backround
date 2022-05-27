@@ -9,9 +9,9 @@ Design: [Leaves](https://cdn.dribbble.com/users/53168/screenshots/2309901/media/
 ## Project features
 - Github pages
 - `<style>` tag
-- pseudo-element
 - image as backround
 - text over image
+- drop down menu
 
 # Author 
 Aleksandr Vasiljev [GitHubProfile](https://github.com/zasweted)
