@@ -13,10 +13,11 @@
 
 }
 .dropbtn {
+  float: right;
   background-color: transparent;
   color: white;
-  padding: 16px;
-  font-size: 50px;
+  padding: 0;
+  font-size: 20px;
   border: none;
 }
 
@@ -26,6 +27,7 @@
 }
 
 .dropup-content {
+  margin-top: 20px;
   display: none;
   background-color: transparent;
   min-width: 50px;
